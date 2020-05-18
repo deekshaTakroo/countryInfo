@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Country Info</string>
+    <string name="search_country_name">Search country name</string>
+    <string name="population">Population</string>
+    <string name="currency">Currency</string>
+    <string name="languages">Languages</string>
+    <string name="capital">Capital</string>
+    <string name="latlong">Lat/Lng</string>
+</resources>
